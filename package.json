@@ -1,0 +1,25 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karabayse/typescript-intro.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Kara Bayse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karabayse/typescript-intro/issues"
+  },
+  "homepage": "https://github.com/karabayse/typescript-intro#readme",
+  "dependencies": {
+    "typescript": "^2.8.1"
+  }
+}
