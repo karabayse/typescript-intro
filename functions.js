@@ -12,13 +12,13 @@ var mySum = function (num1, num2) {
     }
     return num1 + num2;
 };
-console.log(mySum('3', 5
+console.log(mySum('3', 5));
 // optional  // return a string
-, 
+
 // optional  // return a string
 function getName(firstName, lastName) {
     return firstName + ' ' + lastName;
-}, console.log(getName('John', 'Johnson'))));
+} console.log(getName('John', 'Johnson'));
 console.log(getName('John'));
 function myVoid() {
     return 3;
