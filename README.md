@@ -1,5 +1,5 @@
 ## TypeScript Intro
 
-tsc types.ts
+```tsc types.ts```
 
-tsc types.ts -w (run it in 'watch' mode)
+```tsc types.ts -w``` to run it in 'watch' mode
